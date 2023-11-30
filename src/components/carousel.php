@@ -40,4 +40,4 @@
         type="button"><img src="./src/assets/icons/icon_right-arrow.svg" alt="Icon"></button>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script src="./src/functions.js"></script>
+<script src="./src/assets/js/functions.js"></script>
