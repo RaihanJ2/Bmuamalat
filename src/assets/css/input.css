@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "FS Lola";
+  src: url("/src/assets/fonts/FSLola.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.bg-bantuan {
+  background: linear-gradient(
+    288.19deg,
+    #500878 42.67%,
+    rgba(80, 8, 120, 0.15) 199.71%
+  );
+}

@@ -7,7 +7,7 @@
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8">
         <div class="p-4 m-8 w-80 bg-white shadow-md rounded-xl">
             <picture class="rounded-lg block overflow-hidden">
-                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/berita1.svg"
+                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/article/berita1.svg"
                     alt="Berita" />
             </picture>
             <p class="text-xs pt-2">Periode : 11 November 2023</p>
@@ -20,7 +20,7 @@
         </div>
         <div class="p-4 m-8 w-80 bg-white shadow-md rounded-xl">
             <picture class="rounded-lg block overflow-hidden">
-                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/berita2.svg"
+                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/article/berita2.svg"
                     alt="Berita" />
             </picture>
             <p class="text-xs pt-2">Periode : 10 November 2023</p>
@@ -34,7 +34,7 @@
         </div>
         <div class="p-4 m-8 w-80 bg-white shadow-md rounded-xl">
             <picture class="rounded-lg block overflow-hidden">
-                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/berita3.svg"
+                <img class="hover:scale-125 ease-in-out duration-150" src="./src/assets/images/article/berita3.svg"
                     alt="Berita" />
             </picture>
             <p class="text-xs pt-2">Periode : 15 November 2023</p>

@@ -2,34 +2,34 @@
 <div class="swiper relative">
     <div class="swiper-wrapper">
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-1.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-1.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-2.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-2.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-3.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-3.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-4.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-4.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-5.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-5.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-6.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-6.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-7.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-7.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-8.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-8.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-9.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-9.png" alt="Image">
         </div>
         <div class="swiper-slide">
-            <img src="./src/assets/images/carousel-10.png" alt="Image">
+            <img src="./src/assets/images/carousel/carousel-10.png" alt="Image">
         </div>
     </div>
     <button

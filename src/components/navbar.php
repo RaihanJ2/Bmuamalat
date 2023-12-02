@@ -24,7 +24,7 @@
     </div>
     <div class="flex justify-between items-center">
         <a href="">
-            <img class="w-[198px]" src="./src/assets/images/logo.png" alt="Logo">
+            <img class="w-[198px]" src="./src/assets/images/navbar/logo.png" alt="Logo">
         </a>
         <ul class="flex items-center space-x-[16px]">
             <li class="text-center w-[102px] hover:text-[#500878]">
@@ -56,7 +56,7 @@
             <?php else: ?>
                 <div class="relative dropdown">
                     <button class="flex items-center dropdown-button" type="button">
-                        <img class="mr-[12px] rounded-full w" src="./src/assets/images/profile.png" alt="Profile Picure">
+                        <img class="mr-[12px] rounded-full w" src="./src/assets/images/navbar/profile.png" alt="Profile Picure">
                         <p>Assalamualaikum Pengguna</p>
                     </button>
                     <div

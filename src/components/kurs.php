@@ -1,4 +1,4 @@
-<div class="w-full flex flex-col justify-center items-center h-screen">
+<div class="w-full flex flex-col justify-center items-center h-auto">
     <h1 class="font-lola text-2xl text-[#500878] py-9">Kurs Bank Muamalat</h1>
     <table class="table-fixed border border-[#500878] w-10/12 rounded-md">
         <tr class="bg-bgt">
@@ -92,7 +92,7 @@
         </tbody>
     </table>
     <button
-        class="bg-[#500878] my-4 font-medium text-white rounded-md py-3 px-10 transform transition-transform hover:scale-100 ease-in duration-500 hover:bg-black">
+        class="bg-[#500878] mt-5 font-medium text-white rounded-md py-3 px-10 transform transition-transform hover:scale-100 ease-in duration-500 hover:bg-black">
         Informasi Lebih Lanjut
     </button>
 </div>
