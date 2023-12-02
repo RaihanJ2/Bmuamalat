@@ -4,10 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        bg1: "#500878",
         bgt: "#EEEEEE",
       },
-      fontFamily: {},
+      fontFamily: {
+        lola: ["FS Lola", "sans-serif"],
+      },
     },
   },
   plugins: [],
