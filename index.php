@@ -14,6 +14,8 @@
     include 'src/components/navbar.php';
     include 'src/components/carousel.php';
     include 'src/components/features.php';
+    include 'src/components/product.php';
+    include 'src/components/bantuan.php';
     include 'src/components/article.php';
     include 'src/components/kurs.php';
     ?>
