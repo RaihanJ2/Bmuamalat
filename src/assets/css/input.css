@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "@fortawesome/fontawesome-free/css/all.min.css";
 @font-face {
   font-family: "FS Lola";
   src: url("/src/assets/fonts/FSLola.ttf") format("truetype");
