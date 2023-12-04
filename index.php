@@ -18,6 +18,7 @@
     include 'src/components/bantuan.php';
     include 'src/components/article.php';
     include 'src/components/kurs.php';
+    include 'src/components/footer.php';
     ?>
     <script src="./src/functions.js"></script>
 
