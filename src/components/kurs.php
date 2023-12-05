@@ -1,7 +1,7 @@
 <div class="w-full flex flex-col justify-center items-center h-auto">
-    <h1 class="font-lola text-2xl text-[#500878] py-9">Kurs Bank Muamalat</h1>
+    <h1 class="font-lola text-[32px] leading-8 text-[#500878] py-9">Kurs Bank Muamalat</h1>
     <table class="table-fixed border border-[#500878] w-10/12 rounded-md">
-        <tr class="bg-bgt">
+        <tr class="bg-[#EEEEEE]">
             <td class="w-[187px] border border-[#500878] font-inter font-medium p-2 text-center">
                 Kurs
             </td>
@@ -85,14 +85,14 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="text-center p-2 font-medium font-myriadpro bg-[#500878] text-white">
+                <td colspan="3" class="text-center p-2 font-medium font-myriad bg-[#500878] text-white">
                     Informasi Terbaru: 19-11-2023 07:50 WIB.
                 </td>
             </tr>
         </tbody>
     </table>
     <button
-        class="bg-[#500878] mt-5 font-medium text-white rounded-md py-3 px-10 transform transition-transform hover:scale-100 ease-in duration-500 hover:bg-black mb-14">
+        class="bg-[#500878] font-myriad mt-5 font-medium text-white rounded-md py-3 px-10 transform transition hover:scale-110 ease-in duration-200 hover:bg-black mb-14">
         Informasi Lebih Lanjut
     </button>
 </div>

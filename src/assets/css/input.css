@@ -1,14 +1,41 @@
+@font-face {
+  font-family: "FS Lola";
+  src: url("../src/assets/fonts/FSLola.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("../src/assets/fonts/MYRIADPRO-REGULAR.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Rest of your CSS */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @import "@fortawesome/fontawesome-free/css/all.min.css";
-@font-face {
-  font-family: "FS Lola";
-  src: url("/src/assets/fonts/FSLola.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
+@import "inter/inter.css";
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+.bg-bantuan {
+  background: linear-gradient(
+    288.19deg,
+    #500878 42.67%,
+    rgba(80, 8, 120, 0.15) 199.71%
+  );
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "inter/inter.css";
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
 .bg-bantuan {
   background: linear-gradient(
     288.19deg,

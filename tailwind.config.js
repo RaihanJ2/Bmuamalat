@@ -3,11 +3,11 @@ module.exports = {
   content: ["./src/**/*.{html,php,js}"],
   theme: {
     extend: {
-      colors: {
-        bgt: "#EEEEEE",
-      },
+      colors: {},
       fontFamily: {
+        inter: ["Inter"],
         lola: ["FS Lola", "sans-serif"],
+        myriad: ["Myriad Pro", "sans-serif"],
       },
     },
   },

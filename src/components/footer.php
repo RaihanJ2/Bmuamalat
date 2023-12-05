@@ -1,4 +1,4 @@
-<div class="h-[668px] bg-[#500878] flex flex-row gap-2 justify-center pt-16">
+<div class="h-[608px] bg-[#500878] flex flex-row gap-2 justify-center pt-16">
     <div class="mx-10 w-[305px]">
         <picture>
             <img src="./src/assets/images/footer/logo.svg" alt="Logo">
@@ -11,19 +11,19 @@
         <div class="flex flex-row gap-3 my-3 items-center">
             <a href="#">
                 <i
-                    class="w-[34px] text-center fa-brands p-2 rounded-sm font-lg fa-facebook-f bg-white text-[#500878] border hover:border-white hover:bg-[#500878] hover:text-white transition duration-200"></i></a>
+                    class="w-[34px] text-center fa-brands p-2 rounded font-lg fa-facebook-f bg-white text-[#500878] border hover:border-white hover:bg-[#500878] transform hover:scale-105 hover:text-white transition duration-200"></i></a>
             <a href="#">
                 <i
-                    class="w-[34px] text-center fa-brands p-2 rounded-sm font-lg fa-twitter bg-white text-[#500878] border hover:border-white hover:bg-[#500878] hover:text-white transition duration-200"></i></a>
+                    class="w-[34px] text-center fa-brands p-2 rounded font-lg fa-twitter bg-white text-[#500878] border hover:border-white hover:bg-[#500878] transform hover:scale-105 hover:text-white transition duration-200"></i></a>
             <a href="#">
                 <i
-                    class="w-[34px] text-center fa-brands p-2 rounded-sm font-lg fa-instagram bg-white text-[#500878] border hover:border-white hover:bg-[#500878] hover:text-white transition duration-200"></i></a>
+                    class="w-[34px] text-center fa-brands p-2 rounded font-lg fa-instagram bg-white text-[#500878] border hover:border-white hover:bg-[#500878] transform hover:scale-105 hover:text-white transition duration-200"></i></a>
             <a href="#">
                 <i
-                    class="w-[34px] text-center fa-brands p-2 rounded-sm font-lg fa-youtube bg-white text-[#500878] border hover:border-white hover:bg-[#500878] hover:text-white transition duration-200"></i></a>
+                    class="w-[34px] text-center fa-brands p-2 rounded font-lg fa-youtube bg-white text-[#500878] border hover:border-white hover:bg-[#500878] transform hover:scale-105 hover:text-white transition duration-200"></i></a>
             <a href="#">
                 <i
-                    class="w-[34px] text-center fa-brands p-2 rounded-sm font-lg fa-linkedin bg-white text-[#500878] border hover:border-white hover:bg-[#500878] hover:text-white transition duration-200"></i></a>
+                    class="w-[34px] text-center fa-brands p-2 rounded font-lg fa-linkedin bg-white text-[#500878] border hover:border-white hover:bg-[#500878] transform hover:scale-105 hover:text-white transition duration-200"></i></a>
         </div>
         <div class="flex flex-col gap-4">
             <p class="text-white text-xl font-semibold ">Hubungi Kami</p>
@@ -43,32 +43,32 @@
     </div>
     <div class=" flex flex-row gap-20">
         <div class="flex flex-col gap-4">
-            <h1 class="text-white text-xl text-bold">Tentang Muamalat</h1>
-            <a class="text-base text-white" href="#">Profil Bank Muamalat</a>
-            <a class="text-base text-white" href="#">Visi & Misi</a>
-            <a class="text-base text-white" href="#">Manajemen Muamalat</a>
-            <a class="text-base text-white" href="#">Sekretaris Perusahaan</a>
-            <a class="text-base text-white" href="#">Anak Perusahaan</a>
-            <a class="text-base text-white" href="#">Penghargaan</a>
-            <a class="text-base text-white" href="#">Seputar Ayo Hijrah</a>
-            <a class="text-base text-white" href="#">Kode Etik</a>
-            <a class="text-base text-white" href="#">Karir</a>
+            <h1 class="text-white text-xl text-bold font-myriad">Tentang Muamalat</h1>
+            <a class="text-base text-white font-lola" href="#">Profil Bank Muamalat</a>
+            <a class="text-base text-white font-lola" href="#">Visi & Misi</a>
+            <a class="text-base text-white font-lola" href="#">Manajemen Muamalat</a>
+            <a class="text-base text-white font-lola" href="#">Sekretaris Perusahaan</a>
+            <a class="text-base text-white font-lola" href="#">Anak Perusahaan</a>
+            <a class="text-base text-white font-lola" href="#">Penghargaan</a>
+            <a class="text-base text-white font-lola" href="#">Seputar Ayo Hijrah</a>
+            <a class="text-base text-white font-lola" href="#">Kode Etik</a>
+            <a class="text-base text-white font-lola" href="#">Karir</a>
         </div>
         <div class="flex flex-col gap-4">
-            <h1 class="text-white text-xl text-bold">Hubungi Kami</h1>
-            <a class="text-base text-white" href="#">Kontak Perusahaan</a>
-            <a class="text-base text-white" href="#">Pengaduan Nasabah</a>
-            <a class="text-base text-white" href="#">Jaringan Muamalat</a>
-            <a class="text-base text-white" href="#">Survey</a>
+            <h1 class="text-white text-xl text-bold font-myriad">Hubungi Kami</h1>
+            <a class="text-base text-white font-lola" href="#">Kontak Perusahaan</a>
+            <a class="text-base text-white font-lola" href="#">Pengaduan Nasabah</a>
+            <a class="text-base text-white font-lola" href="#">Jaringan Muamalat</a>
+            <a class="text-base text-white font-lola" href="#">Survey</a>
 
         </div>
         <div class="flex flex-col gap-4">
-            <h1 class="text-white text-xl text-bold">Consumer & Retailer Banking</h1>
-            <a class="text-base text-white" href="#">Produk & Lainnya</a>
-            <a class="text-base text-white" href="#">Produk KPR</a>
-            <a class="text-base text-white" href="#">Berita & Artikel</a>
-            <a class="text-base text-white" href="#">Cek Kondisi Keuangan</a>
-            <a class="text-base text-white" href="#">Treasury</a>
+            <h1 class="text-white text-xl text-bold font-myriad">Consumer & Retailer Banking</h1>
+            <a class="text-base text-white font-lola" href="#">Produk & Lainnya</a>
+            <a class="text-base text-white font-lola" href="#">Produk KPR</a>
+            <a class="text-base text-white font-lola" href="#">Berita & Artikel</a>
+            <a class="text-base text-white font-lola" href="#">Cek Kondisi Keuangan</a>
+            <a class="text-base text-white font-lola" href="#">Treasury</a>
 
         </div>
 

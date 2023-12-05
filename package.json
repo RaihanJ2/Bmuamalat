@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
-    "country-flag-icons": "^1.5.9"
+    "country-flag-icons": "^1.5.9",
+    "inter": "^2.1.0"
   }
 }

@@ -4,9 +4,10 @@
             <picture class="">
                 <img src="./src/assets/images/bantuan/Logo.svg" alt="Logo">
             </picture>
-            <h1 class="text-4xl text-white text-left">Install MuamalatDin Sekarang Juga!</h1>
+            <h1 class="text-4xl font-lola text-white text-left">Install MuamalatDin Sekarang Juga!</h1>
             <div class="w-[662px]">
-                <p class="text-xl text-white text-left">Jadikan hidupmu lebih mudah! Download aplikasinya sekarang untuk
+                <p class="font-myriad text-xl text-white text-left">Jadikan hidupmu lebih mudah! Download aplikasinya
+                    sekarang untuk
                     pengalaman
                     terbaik dalam mengelola dan
                     memaksimalkan segala aktivitasmu.</p>
