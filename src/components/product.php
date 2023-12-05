@@ -40,7 +40,7 @@
         </div>
     </div>
     <button
-        class="bg-[#500878] my-4 font-medium font-myriad leading-6 text-base text-white rounded-md py-3 px-10 transform transition hover:scale-110 ease-in duration-200 hover:bg-black">
+        class="bg-[#500878] my-4 font-medium font-myriad leading-6 text-base text-white rounded-md py-3 px-10 border hover:border-[#500878] hover:text-[#500878] hover:bg-white transform transition hover:scale-110 ease-in duration-200">
         Lainnya
     </button>
 </div>

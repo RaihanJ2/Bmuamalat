@@ -92,7 +92,7 @@
         </tbody>
     </table>
     <button
-        class="bg-[#500878] font-myriad mt-5 font-medium text-white rounded-md py-3 px-10 transform transition hover:scale-110 ease-in duration-200 hover:bg-black mb-14">
+        class="bg-[#500878] font-myriad mt-5 font-medium text-white rounded-md py-3 px-10 border transform transition hover:border-[#500878] hover:text-[#500878] hover:bg-white hover:scale-110 ease-in duration-200 mb-14">
         Informasi Lebih Lanjut
     </button>
 </div>
